@@ -59,4 +59,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 **MADE WITH EFFORTS BY MARYAM NAZAR**
 
-```
