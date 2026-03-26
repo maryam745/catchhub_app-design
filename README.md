@@ -1,10 +1,10 @@
-# Catchub 
+# Catchub — Watch. Communicate. Create. 
 
 **Catchub** is a modern social media landing page designed to empower users to watch videos, communicate seamlessly, and create their own content. This project features an Apple-inspired clean UI with fluid, code-based radial gradients—achieving a premium look without the use of heavy background images.
 
 ---
 
-## Key Features
+##  Key Features
 
 * **Premium Design:** A sleek and modern aesthetic powered by light grey and white radial gradients.
 * **Fully Responsive:** Optimized for a seamless experience across mobile, tablet, and desktop devices.
@@ -16,7 +16,7 @@
 
 ---
 
-## Tech Stack
+##  Tech Stack
 
 * **HTML5:** Used for semantic structure and clean document organization.
 * **CSS3:** Custom layouts utilizing Advanced Radial Gradients to create a "wavy" background effect programmatically.
@@ -24,30 +24,39 @@
 
 ---
 
-## Project Structure
+##  Project Structure
 
 ```text
-
 ├── logo.png       # Official App Logo
 ├── top_screens.png # Main UI Mockup
 └── ...            # Additional graphics
 ├── index.html         # Main source code file
 └── README.md          # Project documentation
-Installation & Usage
-Clone the Repository:
+````
 
-Bash
-git clone [https://github.com/maryam745/catchhub_app-design.git](https://github.com/maryam745/catchhub_app-design.git)
-Run the Project:
-Simply open the index.html file in any modern web browser (Chrome, Edge, Firefox, or Safari).
+-----
 
-🤝 Contact & Connect
+## 🔧 Installation & Usage
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/maryam745/catchhub_app-design.git](https://github.com/maryam745/catchhub_app-design.git)
+    ```
+2.  **Run the Project:**
+    Simply open the `index.html` file in any modern web browser (Chrome, Edge, Firefox, or Safari).
+
+-----
+
+## Contact & Connect
+
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
 
-Email: info.maryamnazar@gmail.com
+  * **Email:** [info.maryamnazar@gmail.com](mailto:info.maryamnazar@gmail.com)
+  * **GitHub:** [@maryam745](https://www.google.com/search?q=https://github.com/maryam745)
+  * **Organization:** **PERATUDE**
 
-GitHub: @maryam745
+-----
 
-Organization: PERATUDE
+**MADE WITH EFFORTS BY MARYAM NAZAR**
 
-MADE WITH EFFORTS BY MARYAM NAZAR
+```
